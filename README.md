@@ -8,7 +8,7 @@
 
 ---
 
-![banner]([https://github.com/user-attachments/assets/d20d0ba4-87b6-47c8-a45c-0a4ad79651d4](https://screenapp.io/app/#/shared/S8_mv0Q0AC))
+![banner](https://github.com/user-attachments/assets/d20d0ba4-87b6-47c8-a45c-0a4ad79651d4)
 
 ---
 
