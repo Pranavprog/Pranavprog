@@ -31,7 +31,8 @@
 - 💻 **Founder & Innovator** – *SANTRUPTHI* (Patent Published)  
 - 🛰 **Hackathon Enthusiast** – Represented India in **YESIST12 Malaysia 2025**  
 - 🛠️ **Solution Architect** – Building **AI & IoT-based prototypes** for health, legal, and agriculture domains  
-- 🌍 **Civic Tech Builder** – Projects for sustainability, inclusivity, and public good  
+- 🌍 **Civic Tech Builder** – Projects for sustainability, inclusivity, and public good
+-  🏆 ** Winner** - Techgyan Associated with IISC on the topic "Chat GPT and AI Tools". 
 
 ---
 
