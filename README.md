@@ -1,104 +1,131 @@
-# 🌟 Hi, I'm Pranav Kumar  
+<h2 align="center">⚡ Hey Innovators, I'm Pranav Kumar 🚀</h2>
 
-💡 A passionate and curious **Electronics & Communication Engineer (IoT specialization)** from Mysuru, India 🇮🇳.  
-I specialize in **IoT, AI/ML, Web Development, and Human-Centric Product Design** — building scalable, secure, and impactful systems.  
+<p align="center">
+  <em>Innovator • Engineer • Dreamer • Problem Solver</em><br>
+  Passionate about <b>IoT, AI, AR, and Human-Centered Design</b>, 
+  I thrive on building solutions that make society smarter, safer, and more inclusive.  
+</p>
 
-With a solid foundation in **C, C++, Python, Embedded Systems, System Design, and UI/UX**, I love transforming ideas into **real-world solutions** — from civic tech innovations to enterprise-grade AI platforms.  
+---
+
+![banner](https://github.com/user-attachments/assets/d20d0ba4-87b6-47c8-a45c-0a4ad79651d4)
 
 ---
 
 ## 🎓 Education  
-🎓 **B.E. in Electronics & Communication (IoT specialization)**  
-Vidyavardhaka College of Engineering, Mysuru  
 
-- 📜 **Published Patent**: *SANTRUPTHI* – Smart Adaptive Canopy for Mothers in Transit  
-- ✨ **4 Idea Patents Filed** in IoT & AI domains  
-- 🏆 **Smart India Hackathon 2025** – Problem Statement Contributor  
-- 🌍 **IEEE YESIST12 Malaysia 2025** – International Finalist  
-- 👨‍🏫 Peer Tutor & Resource Person (IoT, DSA, AI Prompting)  
-- 🎤 Hackathon & Workshop Coordinator  
-
----
-
-## 💼 Experience  
-🏢 **Innovation & Research Contributor – VVCE Incubation Centre**  
-- Prototyped IoT & AI-driven systems for **healthcare, food safety, and civic infrastructure**  
-- Published patent-backed solutions and represented projects at national & international forums  
-
-🏆 **Hackathon Contributor & Team Lead**  
-- SIH, YESIST12, HAL Aerothon 2025, Samsung Solve for Tomorrow, Google Cloud Hackathons  
+🎓 **B.E. in Electronics & Communication Engineering (IoT Specialization)**  
+*Vidyavardhaka College of Engineering, Mysuru*  
+- CGPA: **9.75**  
+- Google Student Ambassador 🌐  
+- Student Placement Co-ordinator @ VVCE 🎯  
+- Smart India Hackathon Finalist  
+- IEEE YESIST12 Global Track Recognized Innovator  
+- Peer Tutor & Mentor (C, C++, IoT, AI, Web Dev)  
+- Hackathon & Workshop Coordinator  
 
 ---
 
-## 🚀 Projects  
+## 💼 Work & Innovation Journey  
 
-### 🍼 **SANTRUPTHI**  
-Smart Adaptive Nurturing Canopy for metro trains & buses, designed for mothers during breastfeeding.  
-Tech: ESP32, PIR Sensors, Servo Motors, Firebase Cloud.  
-🏆 Patent Published | IEEE YESIST12 Malaysia Recognition  
-
-### 🥗 **SafeBite**  
-IoT-powered spoon/fork with **real-time bite-level detection** of harmful chemicals in food.  
-Sensors: BME688 VOC, TCS34725 Color Sensor, pH Probe.  
-Cloud logging with Firebase + mobile app UI.  
-
-### 🌱 **Smart Agro-Edge**  
-Real-time IoT-based **multi-residue chemical detection** in edibles using **AI-Olfactory Mapping & E-Soil Integration**.  
-
-### ⚖️ **DHARMAJYOTI**  
-AI-powered **legal co-pilot** for contract simplification and accessible legal clarity.  
-🔗 [Live App](https://dharmajyoti-legal-app.vercel.app/)  
-
-### 🧠 **NeuroNest**  
-Wearable AI-driven **mental wellness ecosystem** with stress monitoring & mood analytics.  
-
-### 📱 **BioMirror / DARPANA**  
-AI-powered smart mirror for **daily diagnostics and health analytics**.  
-
-### 🌊 **JALRAKSHI**  
-IoT-based **microplastics detection sensor** for water safety.  
-
-### 🧪 **RASAYAN**  
-E-tongue for **Ayurvedic herb quality testing & authenticity validation**.  
-
-…and more civic-tech + AI prototypes 🚀  
+- 💻 **Founder & Innovator** – *SANTRUPTHI* (Patent Published)  
+- 🛰 **Hackathon Enthusiast** – Represented India in **YESIST12 Malaysia 2025**  
+- 🛠️ **Solution Architect** – Building **AI & IoT-based prototypes** for health, legal, and agriculture domains  
+- 🌍 **Civic Tech Builder** – Projects for sustainability, inclusivity, and public good  
 
 ---
 
-## 🏆 Achievements  
-- 🥇 **Patent Holder** – *SANTRUPTHI*  
-- 🌍 **IEEE YESIST12 International Finalist** – Malaysia 2025  
-- 🏆 **Amazon GenAI Electronics Challenge** – 2nd Runner-up  
-- 🛰️ **HAL Aerothon 2025** – Selected for Option 2 (Helicopter Fuel Injection Digital Twin)  
-- 🏆 **Samsung Solve for Tomorrow 2025** – Applied (Shortlisting Pending)  
-- 🏆 **Google Cloud Agentic AI Hackathon 2025** – Project *Sahayak* Selected  
-- 🎤 **Resource Person** – IoT, DSA & AI Prompting Bootcamps  
-- 📘 **Certifications**:  
-  - Google Cloud Qwiklabs – AI/ML & Data Analytics  
-  - Coursera – OOP with Java  
-  - Siemens Healthineers Workshop – AI in Precision Medicine  
-  - NPTEL – Cybersecurity & IoT (Ongoing)  
+## 🚀 Flagship Projects  
+
+- 🌸 **SANTRUPTHI** – Smart Adaptive Canopy for mothers in transit 🚆  
+- 🍴 **SafeBite** – IoT-powered **bite-level edible safety detection** 🍱  
+- 🌾 **Smart Agro-Edge (KRISHI)** – Real-time AI–Olfactory soil & chemical analysis 🌱  
+- 🤖 **Sahayak** – AI-powered skill development & student assistant 📚  
+- ⚖️ **DharmaJyoti** – AI Legal Co-pilot for contract clarity ⚖️  
+- 🍲 **AHAAR** – Food waste reduction & smart redistribution platform ♻️  
+- 🏥 **JIRAYIA** – Hospital service robot for autonomous rounds 🚑  
+- 👂 **DIVYA** – AI-powered assistive tech for **dumb and deaf** community 🦾  
+- 🚆 **TURANG** – AI-based **segregation system for trains & fitness management of trains** 🛤️  
+- 🪞 **DARPANA** – AI Health Mirror for daily diagnostics & wellbeing 🌐  
 
 ---
 
-## 💻 Tech Stack  
-**Languages:** C, C++, Python, C#, HTML5, CSS, JavaScript, TypeScript, SQL  
-**Frameworks:** React, Next.js, Flask, FastAPI, Tailwind CSS  
-**IoT & Embedded:** ESP32, NodeMCU, Arduino, Sensor Fusion, Firebase Integration  
-**AI/ML:** TensorFlow, Vertex AI, OpenCV, NumPy, Pandas  
-**Tools:** Git, Figma, Replit, Napkin.ai, Excalidraw, Midjourney  
+## 📜 Patents & Research Papers  
+
+- 🏅 *SANTRUPTHI* – Published Patent (2025)  
+- 📖 Research on **AI-powered IoT systems for healthcare and safety**  
+- ✍️ IEEE-style papers on **Smart Agro-Edge** and **SafeBite** under preparation  
 
 ---
 
-## 📊 GitHub Stats  
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+## 🏆 Competitions & Hackathons  
+
+- 🥇 **YESIST12 Malaysia 2025** – Recognized Global Track Innovator  
+- 🛩 **HAL Aerothon 2025** – Shortlisted Solution Architect (Option 2)  
+- 💡 **Smart India Hackathon (SIH) 2025** – Finalist  
+- 🥈 **Amazon GenAI Electronics Challenge** – 2nd Runner-up  
+- 🌐 Multiple local **Ideathons, Workshops, and Techfests**  
+
+---
+
+## 🎤 Speaking Engagements & Media  
+
+- 🎙️ **Invited Speaker** – VVCE IoT & AI Bootcamps  
+- 🎙️ **Resource Person** – *Social Innovation* Sessions  
+- 📰 Featured in **The Hindu** & **Times Now** for *SANTRUPTHI* 🌸  
+- 🎥 Conducted **DSA & DevOps sessions** as resource person  
+
+---
+
+## 🛠️ Tech Stack  
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+---
+
+## 📊 GitHub Analytics  
+
+![](https://github-readme-stats.vercel.app/api?username=pranav9535&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=pranav9535&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav9535&theme=radical&hide_border=false&layout=compact)  
+
+🏆 **Trophies**  
+![](https://github-profile-trophy.vercel.app/?username=pranav9535&theme=onedark&no-frame=true&no-bg=false&margin-w=4)  
 
 ---
 
 ## 🌐 Connect With Me  
-🔗 [LinkedIn](#) | [GitHub](#) | [Twitter / X](#) | [Instagram](#) | [YouTube](#) | ✉️ Gmail  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-kumar-adiga-971843320)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavkumar9535@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.pranu_.3815)  
 
 ---
 
-✨ *“Innovating at the intersection of IoT, AI, and Human-Centric Design.”*  
+✨ *“Innovating with purpose, building for society, and dreaming beyond boundaries.”*  
