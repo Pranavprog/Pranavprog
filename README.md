@@ -19,7 +19,8 @@
 - CGPA: **9.75**  
 - Google Student Ambassador 🌐  
 - Student Placement Co-ordinator @ VVCE 🎯  
-- Smart India Hackathon Finalist  
+- Smart India Hackathon Participant.
+- TIE Global Pitch Semi-Finalist.  
 - IEEE YESIST12 Global Track Recognized Innovator  
 - Peer Tutor & Mentor (C, C++, IoT, AI, Web Dev)  
 - Hackathon & Workshop Coordinator  
