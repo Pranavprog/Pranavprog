@@ -14,7 +14,7 @@
 
 ## 🎓 Education  
 
-🎓 **B.E. in Electronics & Communication Engineering (IoT Specialization)**  
+🎓 **B.E. in Information Science Engineering (IoT Specialization)**  
 *Vidyavardhaka College of Engineering, Mysuru*  
 - CGPA: **9.75**  
 - Google Student Ambassador 🌐  
