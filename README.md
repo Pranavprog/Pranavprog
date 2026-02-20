@@ -58,7 +58,7 @@
 - 🏅 *DHARMAJYOTI* – Published Patent (2026) .
 - 🏅 *BHOOMI* – Published Patent (2026).
 - 🏅 *KAVACH* – Published Patent (2026).
-- 🏅 *KAVACH* – Published Patent (2026).
+- 🏅 *AAHAR* – Published Patent (2026).
 - 📖 Research on **AI-powered IoT systems for healthcare and safety**  
 - ✍️ IEEE-style papers on **Smart Agro-Edge** and **SafeBite** under preparation  
 
