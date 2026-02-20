@@ -101,9 +101,9 @@
 
 ## 📊 GitHub Analytics  
 
-![](https://github-readme-stats.vercel.app/api?username=pranav9535&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=pranav9535&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav9535&theme=radical&hide_border=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=Pranavprog&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pranavprog&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavprog&theme=radical&hide_border=false&layout=compact)  
 
 🏆 **Trophies**  
 ![](https://github-profile-trophy.vercel.app/?username=pranav9535&theme=onedark&no-frame=true&no-bg=false&margin-w=4)  
