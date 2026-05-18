@@ -90,7 +90,7 @@
 ---
 
 <p>
-- 🔭 Check out my <a href="https://drive.google.com/file/d/1DWZ0B1fVEkLgQFCmd6wqGVzISSTLb0G9/view?usp=sharing"><b>Resume</b></a><br>
+- 🔭 Check out my <a href="https://drive.google.com/file/d/1bpVDRrq9kEtW93abF7V5FN86iJS1aVTA/view?usp=sharing"><b>Resume</b></a><br>
 - 💻 All of my projects are available on <a href="https://github.com/Pranavprog/"><b>GitHub</b></a><br>
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.<br>
 - 👯 I am open to collaboration with creators, developers and tech enthusiasts.<br>
