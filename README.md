@@ -23,7 +23,7 @@
 - Smart India Hackathon Participant.
 - TIE Global Pitch Semi-Finalist.  
 - IEEE YESIST12 Global Track Recognized Innovator  
-- Peer Tutor & Mentor (C, C++, IoT, AI, Web Dev)  
+- Peer Tutor & Mentor (C, C++, DBMS, SE IoT, AI, Web Dev)  
 - Hackathon & Workshop Coordinator  
 
 ---
@@ -215,6 +215,7 @@
 
 🏆 **Trophies**  
 ![](https://github-profile-trophy.vercel.app/?username=pranav9535&theme=onedark&no-frame=true&no-bg=false&margin-w=4)  
+<img src="C:\Users\Admin\Downloads\WhatsApp Image 2026-05-19 at 06.53.03.jpeg">
 
 ---
 
