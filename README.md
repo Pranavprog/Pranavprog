@@ -47,7 +47,8 @@
 - 🍴 **SafeBite** – IoT-powered **bite-level edible safety detection** 🍱  
 - 🌾 **Smart Agro-Edge (KRISHI)** – Real-time AI–Olfactory soil & chemical analysis 🌱  
 - 🤖 **Sahayak** – AI-powered skill development & student assistant 📚  
-- ⚖️ **DharmaJyoti** – AI Legal Co-pilot for contract clarity ⚖️  
+- ⚖️ **DharmaJyoti** – AI Legal Co-pilot for contract clarity ⚖️
+- 🌾 **BHOOMI** – Real-time scratch to end point support for farmer platform 🌱   
 - 🍲 **AHAAR** – Food waste reduction & smart redistribution platform ♻️  
 - 🏥 **JIRAYIA** – Hospital service robot for autonomous rounds 🚑  
 - 👂 **DIVYA** – AI-powered assistive tech for **dumb and deaf** community 🦾  
@@ -70,11 +71,10 @@
 
 ## 🏆 Competitions & Hackathons  
 
-- 🥇 **Karnataka Youth Icon awawrd 2026** – Recognized as a student for the best curricular and co-curricular activities.
+- 🥇 **Karnataka Youth Icon awawrd 2026** – Recognized as a **Icon** student for the best curricular and co-curricular activities.
 - 🥇 **Rabindra Ratna Puraskar 2026** – Recognized by Ministry of Corporate Affairs.  
 - 🥇 **YESIST12 Malaysia 2025** – Recognized Global Track Innovator  .
-- 🛩 **HAL Aerothon 2025** – Shortlisted Solution Architect (Option 2)  
-- 💡 **Smart India Hackathon (SIH) 2025** – Finalist  
+- 🛩 **HAL Aerothon 2025** – Shortlisted Solution Architect (Option 2)    
 - 🥈 **Amazon GenAI Electronics Challenge** – 2nd Runner-up  
 - 🌐 Multiple local **Ideathons, Workshops, and Techfests**  
 
