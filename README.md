@@ -1,4 +1,4 @@
-<h2 align="center">⚡ Hey Innovators, I'm Pranav Kumar 🚀</h2>
+<h2 align="center">⚡ Hey Innovators, I'm Pranav Kumar ☠</h2>
 
 <p align="center">
   <em>Innovator • Engineer • Dreamer • Problem Solver</em><br>
