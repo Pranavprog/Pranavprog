@@ -18,8 +18,7 @@
 *Vidyavardhaka College of Engineering, Mysuru*  
 - CGPA: **9.57**  
 - Google Student Ambassador 🌐
-- Aspire Institute Student Ambassador 🌐  
-- Student Placement Co-ordinator @ VVCE 🎯  
+- Aspire Institute Student Ambassador 🌐   
 - Smart India Hackathon Participant.
 - TIE Global Pitch Semi-Finalist.  
 - IEEE YESIST12 Global Track Recognized Innovator  
