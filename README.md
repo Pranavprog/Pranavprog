@@ -73,6 +73,8 @@
 - 🥇 **Karnataka Youth Icon awawrd 2026** – Recognized as a **Icon** student for the best curricular and co-curricular activities.
 - 🥇 **Rabindra Ratna Puraskar 2026** – Recognized by Ministry of Corporate Affairs.  
 - 🥇 **YESIST12 Malaysia 2025** – Recognized Global Track Innovator.
+- 🥇 Winner of **Infothon 2026**.
+- 🥇 Winner of **Fusion X 2026**.
 - 🛩 **HAL Aerothon 2025** – Shortlisted Solution Architect (Option 2).    
 - 🥈 **Amazon GenAI Electronics Challenge** – 2nd Runner-up.
 - 🥈 **ET-AI Hackathon** – Semifinalist.
